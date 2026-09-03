@@ -1,7 +1,8 @@
+package Practice;
+
 import java.util.Scanner;
 
 public class Change {
-
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
@@ -19,6 +20,4 @@ public class Change {
         a = b;
         b = temp;
     }
-
-    
 }

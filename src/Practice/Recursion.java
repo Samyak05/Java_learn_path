@@ -1,3 +1,5 @@
+package Practice;
+
 public class Recursion {
     public static void rec (int n){
         if(n>5){

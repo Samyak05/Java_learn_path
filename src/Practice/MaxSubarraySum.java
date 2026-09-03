@@ -1,3 +1,5 @@
+package Practice;
+
 class MaxSubarraySum {
     public int maxSubarraySum(int[] arr, int k) {
         int i=0, j=0, sum = 0;
