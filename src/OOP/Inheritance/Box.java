@@ -1,4 +1,4 @@
-package OOP.Inheritance;
+package Inheritance;
 
 public class Box {
     double l;
