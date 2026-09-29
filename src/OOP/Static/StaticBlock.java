@@ -1,4 +1,4 @@
-package Static;
+package OOP.Static;
 
 public class StaticBlock {
     static int a = 4;
