@@ -2,9 +2,9 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-.kotlin
-.idea
-Learning.iml
+*.kotlin
+.idea/
+*.iml
 
 ### Eclipse ###
 .apt_generated
